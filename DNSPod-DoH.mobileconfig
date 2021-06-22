@@ -9,6 +9,10 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>1.12.34.56</string>
+				</array>
 				<key>ServerURL</key>
 				<string>https://doh-ce2e3ujs-iPhone.doh.pub/dns-query</string>
 			</dict>
