@@ -14,7 +14,7 @@
 					<string>1.12.34.56</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://doh-ce2e3ujs-myiphone.doh.pub/dns-query</string>
+				<string>https://doh-ce2e3ujs.doh.pub/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use DNSPod Encrypted DNS over HTTPS</string>
