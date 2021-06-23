@@ -9,6 +9,13 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>17.253.84.247</string>
+					<string>17.253.82.213</string>
+					<string>17.253.82.247</string>
+					<string>17.253.82.119</string>
+				</array>
 				<key>ServerURL</key>
 				<string>https://doh.dns.apple.com/dns-query</string>
 			</dict>
