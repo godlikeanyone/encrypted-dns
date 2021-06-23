@@ -38,7 +38,7 @@
 	<key>PayloadDescription</key>
 	<string>Adds the Apple DNS to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>OpenDNS Encrypted DNS</string>
+	<string>Apple DoH</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
