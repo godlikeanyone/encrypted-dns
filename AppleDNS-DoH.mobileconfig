@@ -10,12 +10,12 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://doh.opendns.com/dns-query</string>
+				<string>https://doh.dns.apple.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use OpenDNS Encrypted DNS over HTTPS</string>
+			<string>Configures device to use Apple Encrypted DNS over HTTPS</string>
 			<key>PayloadDisplayName</key>
-			<string>OpenDNS DNS over HTTPS Standard</string>
+			<string>Apple DNS over HTTPS Standard</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.684b6631-98ef-4534-ab68-baa22a4a3b81</string>
 			<key>PayloadType</key>
@@ -29,7 +29,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the OpenDNS DNS to Big Sur and iOS 14 based systems</string>
+	<string>Adds the Apple DNS to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
 	<string>OpenDNS Encrypted DNS</string>
 	<key>PayloadIdentifier</key>
